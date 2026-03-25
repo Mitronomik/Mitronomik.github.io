@@ -1,0 +1,20 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1500" fill="#0F1115"/>
+  <circle cx="920" cy="240" r="260" fill="url(#paint0_radial)" fill-opacity="0.95"/>
+  <circle cx="260" cy="1210" r="220" fill="url(#paint1_radial)" fill-opacity="0.7"/>
+  <rect x="92" y="92" width="1016" height="1316" rx="56" fill="#151922" stroke="rgba(255,255,255,0.12)"/>
+  <circle cx="600" cy="520" r="210" fill="#1D2430"/>
+  <path d="M332 1184C332 986.312 492.312 826 690 826H510C707.688 826 868 986.312 868 1184V1184H332V1184Z" fill="#1D2430"/>
+  <text x="600" y="1288" text-anchor="middle" fill="#E8ECF1" font-family="Inter, Arial, sans-serif" font-size="84" font-weight="700">Виталий Крумин</text>
+  <text x="600" y="1370" text-anchor="middle" fill="#AAB4C0" font-family="Inter, Arial, sans-serif" font-size="40" font-weight="500">Замени этот файл на свою фотографию</text>
+  <defs>
+    <radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(920 240) rotate(90) scale(260)">
+      <stop stop-color="#72A7FF"/>
+      <stop offset="1" stop-color="#72A7FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="paint1_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 1210) rotate(90) scale(220)">
+      <stop stop-color="#6EF2D7"/>
+      <stop offset="1" stop-color="#6EF2D7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
